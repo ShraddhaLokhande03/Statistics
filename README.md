@@ -1,1 +1,1 @@
-Statistics For Data Science Using Python
+Statistics For Data Science 
