@@ -1,1 +1,1 @@
-Statistics using python
+Essential Statistics for Data Science
