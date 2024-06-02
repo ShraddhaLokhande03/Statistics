@@ -1,1 +1,1 @@
-Essential Statistics for data science
+Essential Statistics For Data Science
