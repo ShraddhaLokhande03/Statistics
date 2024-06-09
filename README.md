@@ -6,8 +6,8 @@
 2. **Probability Theory:**
    - Basic Concepts: Probability, events, sample space, and the rules of probability (addition and multiplication rules).
    - Probability Distributions: Binomial, Poisson, and normal distributions are key in understanding the likelihood of different outcomes.
-   Inferential Statistics
-3. **Hypothesis Testing:**
+   
+3. **Inferential Statistics:**
    - Null and alternative hypotheses, p-values, and types of errors (Type I and Type II errors) are crucial for making decisions based on data.
    - Confidence Intervals: Estimating the range within which a population parameter lies with a certain level of confidence.
    - ANOVA (Analysis of Variance): Used to compare means among three or more groups to understand if at least one group mean is different from the others
